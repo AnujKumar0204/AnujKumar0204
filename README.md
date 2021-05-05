@@ -5,9 +5,9 @@
 - 🔭 I’m currently working on my college project
 - 🌱 I’m currently learning android app development
 - 👯 I’m looking to collaborate on android studio
-<!--  -  🤔 I’m looking for help with -->
 - 💬 Ask me about Web development or any tech stuff
 - 📫 How to reach me: [Instagram - @anuj.k0204](https://www.instagram.com/anuj.k0204/)
+<!--  -  🤔 I’m looking for help with -->
 <!--  -  😄 Pronouns: ... 
       - ⚡ Fun fact: ... -->
 
