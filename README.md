@@ -17,7 +17,7 @@
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujkumar0204&show_icons=true&locale=en&layout=compact" alt="anujkumar0204" /></p>
 -->
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/bfe7877759bcced4183e6b00115ed57bfb16a42ea3a288a11be82613f138f069/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d416e6f6f70313134267468656d653d64726163756c6126686964655f6c616e67735f62656c6f773d31"><img align="center" src="https://camo.githubusercontent.com/bfe7877759bcced4183e6b00115ed57bfb16a42ea3a288a11be82613f138f069/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d416e6f6f70313134267468656d653d64726163756c6126686964655f6c616e67735f62656c6f773d31" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujKumar0204&amp;theme=dracula&amp;hide_langs_below=1" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujKumar0204&theme=dracula&hide_langs_below=1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujKumar0204&theme=dracula&hide_langs_below=1" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujKumar0204&amp;theme=dracula&amp;hide_langs_below=1" style="max-width:100%;"></a></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujkumar0204&show_icons=true&locale=en" alt="anujkumar0204" /></p>
